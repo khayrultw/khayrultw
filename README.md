@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Khayrul Islam</h1>
-<h3 align="center">Md Khayrul Islam is an experienced mobile application developer. His area of works includes developing both native and cross platform mobile application. He worked in Kaodim as a Software Engineer (Mobile) and developed native android application with kotlin. He also worked in MyMedicalHUB and developed cross platform mobile application in react native</h3>
+<h3 align="center">Md Khayrul Islam is an experienced mobile application developer. His area of work includes developing both native and cross platform mobile application. He worked in Kaodim as a Software Engineer (Mobile) and developed native android application with kotlin. He also worked in MyMedicalHUB and developed cross platform mobile application in react native</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
