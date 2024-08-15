@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 
 ## 📈 GitHub Stats
 
-![Muhammad Khayrul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Muhammad Khayrul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khayrultw&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 📫 How to Reach Me
 
