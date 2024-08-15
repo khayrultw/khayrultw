@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Muhammad Khayrul Islam 👋
 Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion for creating intuitive and user-friendly mobile experiences. Here's a bit about what I do and what I'm currently working on:
 
 ## 🛠️ Technologies & Tools
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 - Exploring new technologies and tools in mobile development
 
 ## 📈 GitHub Stats
-
+![Muhammad Khayrul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=khayrultw&show_icons=true&locale=en&layout=compact)
 ![Muhammad Khayrul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khayrultw&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 📫 How to Reach Me
