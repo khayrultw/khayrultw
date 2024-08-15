@@ -1,10 +1,11 @@
 # Hello, I'm Muhammad Khayrul Islam 👋
-Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion for creating intuitive and user-friendly mobile experiences. Here's a bit about what I do and what I'm currently working on:
+Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion for creating intuitive and user-friendly mobile experiences.  I love the competitive programming, and in my free time, you'll often find me solving problems on LeetCode, Codeforces, or UVA Online Judge
+Here's a bit about what I do and what I'm currently working on:
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Kotlin, C++, C, JavaScript, Python, Java
-- **Frameworks & Libraries:** Android Framework, React Native, React, Node.js, Django
+- **Languages:** Kotlin, C++, C, JavaScript, Python, Java, Golang
+- **Frameworks & Libraries:** Android Framework, React Native, React, Node.js, Flask
 - **Tools:** Git, Figma, Android Studio, VSCode, gradle, Dagger Hilt2, JUnit, Mockito
 - **Databases:** Firebase, SQLite, MySQL, MongoDB
 
