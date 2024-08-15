@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Kotlin, C++, C, JavaScript, Python, Java
-- **Frameworks & Libraries:** React, Node.js, Django
-- **Tools:** Git
+- **Frameworks & Libraries:** Android Framework, React Native, React, Node.js, Django
+- **Tools:** Git, Figma, Android Studio, VSCode, gradle, Dagger Hilt2, JUnit, Mockito
 - **Databases:** Firebase, SQLite, MySQL, MongoDB
 
 ## 🔭 Current Focus
@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 - Exploring new technologies and tools in mobile development
 
 ## 📈 GitHub Stats
-![Muhammad Khayrul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=khayrultw&show_icons=true&locale=en&layout=compact)
+![Muhammad Khayrul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=khayrultw&show_icons=true&locale=en&layout=compact)<br>
 ![Muhammad Khayrul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khayrultw&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 📫 How to Reach Me
 
 - **Email:** khayrultw@gmail.com
-- **LinkedIn:** [](https://linkedin.com/in/https://www.linkedin.com/in/khairul-islam-b13b2a159/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/khairul-islam-b13b2a159/)
