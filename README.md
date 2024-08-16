@@ -1,5 +1,5 @@
 # Hello, I'm Muhammad Khayrul Islam 👋
-Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion for creating intuitive and user-friendly mobile experiences.  I love the competitive programming, and in my free time, you'll often find me solving problems on LeetCode, Codeforces, or UVA Online Judge
+Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion for creating intuitive and user-friendly mobile experiences.  I love competitive programming, and in my free time, you'll often find me solving problems on LeetCode, Codeforces, or UVA Online Judge
 Here's a bit about what I do and what I'm currently working on:
 
 ## 🛠️ Technologies & Tools
