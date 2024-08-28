@@ -22,4 +22,4 @@ Here's a bit about what I do and what I'm currently working on:
 ## 📫 How to Reach Me
 
 - **Email:** khayrultw@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/khairul-islam-b13b2a159/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/md-khairul-islam/)
