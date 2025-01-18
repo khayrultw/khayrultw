@@ -5,7 +5,7 @@ Here's a bit about what I do and what I'm currently working on:
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Kotlin, C++, C, JavaScript, Python, Java, Golang
-- **Frameworks & Libraries:** Android Framework, React Native, React, Node.js, Flask
+- **Frameworks & Libraries:** Android, Flutter, React Native, React, Node.js, Flask
 - **Tools:** Git, Figma, Android Studio, VSCode, gradle, Dagger Hilt2, JUnit, Mockito
 - **Databases:** Firebase, SQLite, MySQL, MongoDB
 
