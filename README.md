@@ -1,6 +1,6 @@
 # Khayrul Islam
 
-## Mobile Application Developer (Kotlin)
+## Mobile Application Developer
 
 ### Summary
 
