@@ -48,9 +48,7 @@ Innovative and results-driven Mobile Application Developer with **4 years of exp
 ### Projects
 
 #### **Word Learning App** *(Android, Kotlin)*
-
 ![App UI](images/words.png)
-
 - Built an **interactive vocabulary-building app** to help users learn English words efficiently.
 - Implemented **daily streaks** to encourage consistent learning, allowing users to fix missed streaks by learning extra words.
 - Used **Room Database** for offline storage, enabling users to add their own words.
@@ -64,9 +62,7 @@ Innovative and results-driven Mobile Application Developer with **4 years of exp
 ---
 
 #### **Exam Guard - IT Student Monitoring System** *(Compose Desktop, Kotlin)*
-
 ![App UI](images/exam_gaurd.png)
-
 - Developed a **desktop application** to monitor students during practical exams.
 - **Two-part system:**
   - **Teacher (Host):** Starts the monitoring session with a specific port, creating a virtual room.
