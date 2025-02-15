@@ -91,7 +91,6 @@ Innovative and results-driven Mobile Application Developer with **4 years of exp
 
 ## GitHub Statistics  
 ![Khayrul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khayrultw&show_icons=true&theme=default)  
-![Khayrul's GitHub Streak](https://streak-stats.demolab.com/?user=khayrultw&theme=default)  
 ![Khayrul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khayrultw&layout=compact&theme=default)  
 
 ## Let's Connect!  
