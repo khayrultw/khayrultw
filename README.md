@@ -22,7 +22,7 @@ Innovative and results-driven Mobile Application Developer with **4 years of exp
 
 #### **Word Learning App** *(Android, Kotlin)*
 
-📷 *[images/words.png]*
+![App UI](images/words.png)
 
 - Built an **interactive vocabulary-building app** to help users learn English words efficiently.
 - Implemented **daily streaks** to encourage consistent learning, allowing users to fix missed streaks by learning extra words.
