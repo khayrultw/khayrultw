@@ -18,6 +18,33 @@ Innovative and results-driven Mobile Application Developer with **4 years of exp
 
 ---
 
+### Work Experience
+
+#### **Software Development Instructor (Mobile)** - *Forward College, Malaysia* *(Aug 2022 - Present)*
+
+- Teaching **Android development with Kotlin** and **Flutter** to students.
+- Instructing on **advanced Kotlin topics**, including **threads, coroutines, and OOP**.
+- Coaching students on **MVVM architecture, Firebase, and database integration**.
+- Conducting hands-on **state management** lessons with **Provider and Riverpod**.
+- Mentoring students on **unit testing, Git workflows, and best practices**.
+
+#### **Software Engineer (Mobile)** - *KAODIM, Malaysia* *(Jan 2022 – July 2022)*
+
+- Developed a **Native Android Application** using **Kotlin and Jetpack Compose**.
+- Wrote **unit tests** and integrated them into the **CI/CD pipeline**.
+- Integrated **Facebook App Events** to track user engagement from ads.
+- Set up **Slack webhook notifications** for Firebase App Distribution.
+- Followed **SOLID principles** for maintainable and scalable code.
+
+#### **Jr. Software Engineer (Mobile)** - *MyMedicalHUB, Bangladesh* *(Nov 2020 – Dec 2021)*
+
+- Developed a **cross-platform mobile application** for Android and iOS.
+- Communicated with stakeholders to gather requirements and implemented features.
+- Successfully conducted testing and **published the application**.
+- Worked in an **Agile development environment**, ensuring timely delivery.
+
+---
+
 ### Projects
 
 #### **Word Learning App** *(Android, Kotlin)*
@@ -30,13 +57,15 @@ Innovative and results-driven Mobile Application Developer with **4 years of exp
 - Integrated **Google Sign-In** for user authentication, syncing data using **WorkManager**.
 - Added **notification reminders** via **Alarm Manager** to notify users if they miss a streak.
 - Included **pronunciations** to enhance learning.
+- Implemented **Dark Theme** for better user experience and reduced eye strain.
+- Integrated **Dynamic Colors**, adapting the app’s UI based on the user’s wallpaper and system settings.
 - **Tech Stack:** Kotlin, Jetpack Compose, Firebase, WorkManager, Room Database, Dagger-Hilt, Alarm Manager
 
 ---
 
 #### **Exam Guard - IT Student Monitoring System** *(Compose Desktop, Kotlin)*
 
-📷 *[Insert an image of the app interface]*
+![App UI](images/exam_gaurd.png)
 
 - Developed a **desktop application** to monitor students during practical exams.
 - **Two-part system:**
@@ -46,39 +75,6 @@ Innovative and results-driven Mobile Application Developer with **4 years of exp
 - Ensured **automatic reconnection** for students in case of network drops.
 - Used **IP discovery** to simplify connections without manual configuration.
 - **Tech Stack:** Kotlin, Compose Desktop, Sockets, MVVM
-
----
-
-### Work Experience
-
-#### **Software Development Instructor (Mobile)** - *Forward College, Malaysia* *(Aug 2022 - Present)*
-
-📷 *[Insert a photo of teaching or classroom setup]*
-
-- Teaching **Android development with Kotlin** and **Flutter** to students.
-- Instructing on **advanced Kotlin topics**, including **threads, coroutines, and OOP**.
-- Coaching students on **MVVM architecture, Firebase, and database integration**.
-- Conducting hands-on **state management** lessons with **Provider and Riverpod**.
-- Mentoring students on **unit testing, Git workflows, and best practices**.
-
-#### **Software Engineer (Mobile)** - *KAODIM, Malaysia* *(Jan 2022 – July 2022)*
-
-📷 *[Insert a screenshot of the app developed]*
-
-- Developed a **Native Android Application** using **Kotlin and Jetpack Compose**.
-- Wrote **unit tests** and integrated them into the **CI/CD pipeline**.
-- Integrated **Facebook App Events** to track user engagement from ads.
-- Set up **Slack webhook notifications** for Firebase App Distribution.
-- Followed **SOLID principles** for maintainable and scalable code.
-
-#### **Jr. Software Engineer (Mobile)** - *MyMedicalHUB, Bangladesh* *(Nov 2020 – Dec 2021)*
-
-📷 *[Insert an image of the medical app UI]*
-
-- Developed a **cross-platform mobile application** for Android and iOS.
-- Communicated with stakeholders to gather requirements and implemented features.
-- Successfully conducted testing and **published the application**.
-- Worked in an **Agile development environment**, ensuring timely delivery.
 
 ---
 
