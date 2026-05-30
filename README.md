@@ -4,7 +4,7 @@
 
 ### Summary
 
-Innovative and results-driven Mobile Application Developer with **4 years of experience** in native Android development using **Kotlin** and cross-platform frameworks like **Flutter** and **React Native**. Adept at building scalable, high-performance applications and mentoring aspiring developers. Passionate about optimizing UI/UX, integrating backend services, and implementing best coding practices.
+Software Engineer and Technical Instructor with **5+ years of experience** building native Android, cross-platform, and full-stack applications. Strong in **Kotlin** and **Jetpack Compose**, with hands-on experience in **Flutter**, **React Native**, **React**, and **Go**, and a consistent focus on clean architecture, performance, testing, and CI/CD. Experienced in mentoring students and developers, reviewing code, and building reliable products with strong attention to UI/UX and maintainability.
 
 ---
 
@@ -46,6 +46,19 @@ Innovative and results-driven Mobile Application Developer with **4 years of exp
 ---
 
 ### Projects
+
+#### **Oto Judge - Online Judge System** *(Web, Go, React)*
+- <img src="images/contest.png" alt="Contest Page" width="49%" /> <img src="images/standings.png" alt="Standings Page" width="49%" />
+- <img src="images/submissions.png" alt="Submissions Page" width="49%" /> <img src="images/problem.png" alt="Problem Page" width="49%" />
+- Built a **full-stack online judge platform** for programming contests, allowing users to browse problems, submit solutions, and track contest progress from a single web interface.
+- Developed the **backend with Go, Gin, and PostgreSQL**, implementing JWT authentication, role-based access control, and contest time-based permissions.
+- Implemented a **multi-language judging pipeline** supporting **C++**, **Python**, **JavaScript**, **Java**, **Kotlin**, and **Go** with automated compile and run workflows.
+- Added **real-time submission and standings updates** using **Server-Sent Events (SSE)** so participants and admins can monitor contests live.
+- Created an **admin dashboard** for managing users, contests, problems, submissions, rejudge actions, and soft-deleted records.
+- Designed the submission flow to handle **execution results, rejudging, and special judge review cases** for contest-specific evaluation needs.
+- **Tech Stack:** Go, Gin, PostgreSQL, React, Tailwind CSS, JWT, Server-Sent Events, Bash
+
+---
 
 #### **Word Learning App** *(Android, Kotlin)*
 ![App UI](images/words.png)
