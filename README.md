@@ -98,8 +98,6 @@ Software Engineer and Technical Instructor with **5+ years of experience** build
 - **Codeforces Rating:** Max **1575** (*Handle: beta-ori*)  
 - **Leetcode:** 115+ problems solved (*Handle: khayrul000*)
 
-## GitHub Statistics  
-![Khayrul's GitHub Stats](https://github-readme-stats.shion.dev/api?username=khayrultw&show_icons=true&theme=default)  
 ![Khayrul's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=khayrultw&layout=compact&theme=default)  
 
 ## Let's Connect!  
